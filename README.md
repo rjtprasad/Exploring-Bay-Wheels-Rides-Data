@@ -42,7 +42,7 @@ People ride for longer duration and distance on weekends than regular days. Subs
 <img src='img/ride_by_months_for_each_user_type.png' />
 
 6. Hourly and Weekly Rides for Each User Type.
-<img src='img/hour_and_weekly.png' />
+<img src='img/hour_and_weekly_ride.png' />
 
 
 ## Resources
