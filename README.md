@@ -35,7 +35,6 @@ People ride for longer duration and distance on weekends than regular days. Subs
 4. Average Ride Duration and Distance for Each User Type
 <img src='img/avg_ride_duration_by_user_type.png' />
 
-<img src='img/avg_ride_distance_by_user_type.png' />
 
 5. Rides by Days of Week and Month for Each User Type
 <img src='img/ride_by_days_of_week_for_each_user_type.png' />
