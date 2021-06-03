@@ -21,24 +21,31 @@ People ride for longer duration and distance on weekends than regular days. Subs
 
 ## Key Insights for Presentation
 
-1. Proportion of rides done by each user type.
-<img src='img/bike_ride_by_user_type' />
+1. Proportion of Rides Done by Each User Type
+<img src='img/bike_ride_by_user_type.png' />
 
-2. Distribution of ride duration and distance.
+2. Distribution of Ride Duration and Distance
+<img src='img/bike_rides_by_minutes.png' />
 
+<img src='img/ride_by_distance.png' />
 
-3. Average ride duration and distance for each user type.
+3. Peak Hour of Rides
+<img src='img/bike_rides_by_hours.png' />
 
+4. Average Ride Duration and Distance for Each User Type
+<img src='img/avg_ride_duration_by_user_type.png' />
 
-4. Rides by days of week and month for each user type.
+<img src='img/avg_ride_distance_by_user_type.png' />
 
+5. Rides by Days of Week and Month for Each User Type
+<img src='img/ride_by_days_of_week_for_each_user_type.png' />
 
-5. Peak hours of rides.
-
+<img src='img/ride_by_months_for_each_user_type.png' />
 
 6. Hourly and Weekly Rides for Each User Type.
+<img src='img/hour_and_weekly_ride_for_sub.png' />
 
-
+<img src='img/hour_and_weekly_ride_for_cus.png' />
 
 ## Resources
 
